@@ -4,8 +4,8 @@
 
 **변수 설명**
 
--erson_age : 대출 당시 나이
--person_income : 연간 소득
+*erson_age : 대출 당시 나이
+*person_income : 연간 소득
 -person_home_ownership : 주택 소융 유형 (RENT / MORTGAGE / OWN / OTHER)
 -person_emp_length : 일한 기간(연 단위)
 -loan_intent : 대출 목적 ( EDUCATION / MEDICAL / VENTURE / PERSONAL/ DEBTCONSOLIDATION)
