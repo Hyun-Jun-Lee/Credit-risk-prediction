@@ -1,20 +1,20 @@
 # Credit-risk
 
-## 신용 위험 예측 모델 만들기
+## 신용 위험 예측 모델
 
-**변수 설명**
+> 변수 설명
 
-*erson_age : 대출 당시 나이
-*person_income : 연간 소득
--person_home_ownership : 주택 소융 유형 (RENT / MORTGAGE / OWN / OTHER)
--person_emp_length : 일한 기간(연 단위)
--loan_intent : 대출 목적 ( EDUCATION / MEDICAL / VENTURE / PERSONAL/ DEBTCONSOLIDATION)
--loan_grade : 대출 등급 (A/B/C/D/E/F/G)
--loan_amnt : 대출 총액
--loan_int_rate : 이자율
--loan_percent_income : 연소득과 대출금의 비율
--cb_person_default_on_file : 과거 채무 불이행 여부
--cb_person_gist_length : 첫 대출 받은 후 지난 기간(연 단위)
+- erson_age : 대출 당시 나이
+- person_income : 연간 소득
+- person_home_ownership : 주택 소융 유형 (RENT / MORTGAGE / OWN / OTHER)
+- person_emp_length : 일한 기간(연 단위)
+- loan_intent : 대출 목적 ( EDUCATION / MEDICAL / VENTURE / PERSONAL/ DEBTCONSOLIDATION)
+- loan_grade : 대출 등급 (A/B/C/D/E/F/G)
+- loan_amnt : 대출 총액
+- loan_int_rate : 이자율
+- loan_percent_income : 연소득과 대출금의 비율
+- cb_person_default_on_file : 과거 채무 불이행 여부
+- cb_person_gist_length : 첫 대출 받은 후 지난 기간(연 단위)
 
 **Target**
 
