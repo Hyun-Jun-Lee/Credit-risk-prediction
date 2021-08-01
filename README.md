@@ -1,4 +1,4 @@
-# Credit-risk
+# Credit-risk-prediction
 
 ## 신용 위험 예측 모델
 
